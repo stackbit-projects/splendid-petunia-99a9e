@@ -6,7 +6,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: 'See how our customers use '
+    title: See how our customers use Chatto.io
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md

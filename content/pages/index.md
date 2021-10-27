@@ -261,7 +261,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: ContactSection
-    colors: colors-f
+    colors: colors-d
     backgroundWidth: full
     title: Join our club
     text: >-

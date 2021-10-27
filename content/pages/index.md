@@ -213,6 +213,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/BAckground.png
     title: A platform that allows everyone the most productive version of themselves
     subtitle: This Is Subtitle
     text: >

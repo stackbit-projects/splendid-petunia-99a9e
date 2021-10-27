@@ -105,6 +105,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderColor: border-neutral
       title:
         fontWeight: 700
         fontStyle: normal

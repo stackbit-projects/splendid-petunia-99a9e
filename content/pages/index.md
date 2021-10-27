@@ -107,7 +107,7 @@ sections:
         flexDirection: row
         borderColor: border-neutral
         borderRadius: large
-        borderWidth: 2
+        borderWidth: 3
       title:
         fontWeight: 700
         fontStyle: normal

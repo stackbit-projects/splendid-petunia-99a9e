@@ -132,7 +132,9 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Remote doesn’t mean alone
-    subtitle: Featured blog posts section example
+    subtitle: >-
+      Latest blog post on how companies use Chatto.io to bring community and
+      efficiency to their worlkflow
     actions:
       - type: Button
         label: View all

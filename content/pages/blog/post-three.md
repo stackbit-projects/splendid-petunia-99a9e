@@ -6,7 +6,7 @@ author: content/data/team/hilary-ouse.json
 excerpt: Learn how top tech companies have learned working remote using our product.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpeg
+  url: /images/Lightning white.svg
   altText: Post Image
 bottomSections:
   - type: CtaSection

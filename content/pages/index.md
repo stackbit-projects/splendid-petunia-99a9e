@@ -87,6 +87,7 @@ sections:
         url: /
         style: link
         icon: arrowRight
+        showIcon: true
     feature:
       type: ImageBlock
       url: /images/Rectangle 2419.png

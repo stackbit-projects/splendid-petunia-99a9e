@@ -108,6 +108,7 @@ sections:
         borderColor: border-neutral
         borderRadius: xx-large
         borderWidth: 4
+        borderStyle: double
       title:
         fontWeight: 700
         fontStyle: normal

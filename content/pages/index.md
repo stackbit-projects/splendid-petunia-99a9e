@@ -106,7 +106,7 @@ sections:
         justifyContent: flex-end
         flexDirection: row
         borderColor: border-neutral
-        borderRadius: x-large
+        borderRadius: xx-large
         borderWidth: 3
       title:
         fontWeight: 700

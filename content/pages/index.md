@@ -62,7 +62,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-b
+    colors: colors-d
     backgroundWidth: inset
     backgroundImage:
       altText: lorem-ipsum

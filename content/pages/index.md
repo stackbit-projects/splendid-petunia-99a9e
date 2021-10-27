@@ -85,7 +85,7 @@ sections:
       - type: Button
         label: Learn more
         url: /
-        style: secondary
+        style: link
     feature:
       type: ImageBlock
       url: /images/Rectangle 2419.png

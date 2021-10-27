@@ -83,7 +83,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - type: Button
-        label: Learn More
+        label: Watch Video
         url: /
         style: secondary
     feature:

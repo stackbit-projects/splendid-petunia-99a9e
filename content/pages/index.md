@@ -223,6 +223,7 @@ sections:
         label: Learn More
         url: /
         style: secondary
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/Center image.png

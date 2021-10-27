@@ -245,7 +245,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: flex-end
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: col
       title:
         fontWeight: 700

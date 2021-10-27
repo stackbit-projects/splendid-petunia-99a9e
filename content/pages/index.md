@@ -224,6 +224,7 @@ sections:
         url: /
         style: secondary
         icon: arrowRight
+        showIcon: true
     feature:
       type: ImageBlock
       url: /images/Center image.png

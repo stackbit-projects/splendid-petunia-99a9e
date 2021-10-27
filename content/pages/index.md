@@ -111,6 +111,8 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
+        margin:
+          - mt-12
       text:
         textAlign: left
       actions:

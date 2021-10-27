@@ -269,7 +269,7 @@ sections:
       and you could immediatly let us know if you want in or not.
     feature:
       type: ImageBlock
-      url: /images/Demo image.png
+      url: /images/Demo image-b28d3dbc.png
       altText: Fisherman holding lobster
     form:
       type: FormBlock

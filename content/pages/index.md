@@ -128,7 +128,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: TestimonialsSection
-    colors: colors-h
+    colors: colors-g
     backgroundWidth: full
     testimonials:
       - quote: >-

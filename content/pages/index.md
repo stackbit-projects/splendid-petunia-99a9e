@@ -78,7 +78,7 @@ sections:
       product.
     actions:
       - type: Button
-        label: Get Started
+        label: Watch video
         url: /
         style: primary
         elementId: hero-main-button

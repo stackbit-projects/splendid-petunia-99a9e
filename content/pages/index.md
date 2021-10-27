@@ -73,9 +73,7 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Where did everyone go?
-    subtitle: >-
-      Learn how top tech companies have learned working remote using our
-      product.
+    subtitle: 'Learn how to get yourself, your team and '
     actions:
       - type: Button
         label: Watch video

@@ -215,7 +215,6 @@ sections:
       type: ImageBlock
       url: /images/BAckground.png
     title: A platform that allows everyone the most productive version of themselves
-    subtitle: This Is Subtitle
     text: >
       ## Share WIP, comment on each other’s work, approve what’s ready to go,
       ship together

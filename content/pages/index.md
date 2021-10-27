@@ -106,6 +106,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderColor: border-neutral
+        borderRadius: large
       title:
         fontWeight: 700
         fontStyle: normal

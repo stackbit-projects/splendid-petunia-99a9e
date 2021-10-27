@@ -86,6 +86,7 @@ sections:
         label: Learn more
         url: /
         style: link
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/Rectangle 2419.png

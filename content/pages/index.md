@@ -215,11 +215,9 @@ sections:
       type: ImageBlock
     title: A platform that allows everyone the most productive version of themselves
     subtitle: This Is Subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Share WIP, comment on each other’s work, approve what’s ready to go, ship
+      together
     actions:
       - type: Button
         label: Get Started

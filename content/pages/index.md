@@ -103,7 +103,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: flex-start
-        justifyContent: flex-end
+        justifyContent: flex-start
         flexDirection: col
         borderColor: border-neutral
         borderRadius: large

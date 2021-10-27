@@ -104,7 +104,7 @@ sections:
           - pb-12
         alignItems: center
         justifyContent: flex-start
-        flexDirection: col
+        flexDirection: row
         borderColor: border-neutral
         borderRadius: large
         borderWidth: 2

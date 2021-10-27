@@ -131,7 +131,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: Remote doesn’t mean alone
     subtitle: Featured blog posts section example
     actions:
       - type: Button

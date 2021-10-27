@@ -75,7 +75,7 @@ sections:
     title: Where did everyone go?
     subtitle: >-
       Learn how to get yourself, your team, and your organization connected,
-      inspired and efficient in a WFH environment. 
+      inspired, and efficient in a WFH environment. 
     actions:
       - type: Button
         label: Watch video

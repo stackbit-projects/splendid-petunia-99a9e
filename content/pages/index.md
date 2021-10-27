@@ -16,7 +16,7 @@ sections:
       - type: Button
         label: Get Started
         url: 'https://www.stackbit.com/'
-        style: secondary
+        style: link
         elementId: hero-main-button
     feature:
       type: ImageBlock

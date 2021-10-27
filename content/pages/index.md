@@ -65,7 +65,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Our partners
+    title: Here are som brands
     subtitle: and thier logos
     actions: []
     people:

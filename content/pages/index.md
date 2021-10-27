@@ -65,7 +65,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: About us
+    title: Our partners
     subtitle: Meet the team
     actions: []
     people:

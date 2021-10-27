@@ -80,7 +80,7 @@ sections:
       - type: Button
         label: Watch video
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
       - type: Button
         label: Watch Video

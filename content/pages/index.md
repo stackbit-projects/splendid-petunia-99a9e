@@ -134,7 +134,7 @@ sections:
     title: Remote doesn’t mean alone
     subtitle: >-
       Latest blog post on how companies use Chatto.io to bring community and
-      efficiency to their worlkflow
+      efficiency to their workflow
     actions:
       - type: Button
         label: View all

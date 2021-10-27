@@ -74,8 +74,8 @@ sections:
       type: ImageBlock
     title: Where did everyone go?
     subtitle: >-
-      Learn how to get yourself, your team and organization connected, inspired
-      and efficient in a WFH environment. 
+      Learn how to get yourself, your team, and your organization connected,
+      inspired and efficient in a WFH environment. 
     actions:
       - type: Button
         label: Watch video

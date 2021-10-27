@@ -66,7 +66,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Our partners
-    subtitle: Meet the team
+    subtitle: and thier logos
     actions: []
     people:
       - content/data/team/desmond-eagle.json

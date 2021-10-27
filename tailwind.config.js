@@ -14,7 +14,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-				festive: ['"noto"', 'serif']
+				festive: ['"Noto Serif Display"', 'serif']
 			},
             colors: {
                 body: themeStyle.body,

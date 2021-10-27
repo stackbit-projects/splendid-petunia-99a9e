@@ -20,7 +20,7 @@ sections:
         elementId: hero-main-button
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/Hero image.svg
       altText: Image alt text
       caption: Image caption
     styles:

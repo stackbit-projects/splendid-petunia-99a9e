@@ -162,7 +162,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    variant: variant-a
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: Remote doesn’t mean alone

@@ -6,7 +6,7 @@
         "secondaryColors": "colors-a",
         "backgroundWidth": "full",
         "title": "Minimal",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Logo.svg",

@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-a
-    backgroundWidth: inset
+    backgroundWidth: full
     title: See how our customers use Chatto.io
     posts:
       - content/pages/blog/post-three.md

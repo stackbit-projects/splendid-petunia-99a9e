@@ -61,7 +61,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    variant: variant-a
+    variant: variant-b
     colors: colors-a
     backgroundWidth: full
     title: Here are som brands

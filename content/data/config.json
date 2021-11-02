@@ -7,9 +7,6 @@
         "backgroundWidth": "full",
         "title": "Startup",
         "isTitleVisible": true,
-        "logo": {
-            "type": "ImageBlock"
-        },
         "primaryLinks": [
             {
                 "type": "Link",

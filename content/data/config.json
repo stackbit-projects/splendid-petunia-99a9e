@@ -8,8 +8,7 @@
         "title": "Minimal",
         "isTitleVisible": false,
         "logo": {
-            "type": "ImageBlock",
-            "altText": "Logo"
+            "type": "ImageBlock"
         },
         "primaryLinks": [
             {

@@ -6,5 +6,6 @@
     "secondary": "#F6F1ED",
     "neutral": "#000000",
     "complementary": "#F7F158",
-    "complementary-alt": "#CCEF64"
+    "complementary-alt": "#CCEF64",
+    "fontHeadlines": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif"
 }

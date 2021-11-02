@@ -6,7 +6,7 @@
         "secondaryColors": "colors-a",
         "backgroundWidth": "full",
         "title": "Startup",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock"
         },

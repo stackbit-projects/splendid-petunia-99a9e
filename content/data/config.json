@@ -5,7 +5,7 @@
         "primaryColors": "colors-f",
         "secondaryColors": "colors-a",
         "backgroundWidth": "full",
-        "title": "Minimal",
+        "title": "Startup",
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock"

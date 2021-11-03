@@ -12,6 +12,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/Team.jpeg
     title: About us
     subtitle: Who we are
     text: |-

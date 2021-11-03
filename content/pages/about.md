@@ -44,6 +44,8 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
+        margin:
+          - mb-12
       text:
         textAlign: center
       actions:

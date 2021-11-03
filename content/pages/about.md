@@ -93,7 +93,7 @@ sections:
     type: HeroSection
   - type: HeroSection
     title: Our story
-    subtitle: Who We Are
+    subtitle: TL'DR
     text: >-
       Contrary to popular belief, Lorem Ipsum is not simply random text. It has
       roots in a piece of classical Latin literature from 45 BC, making it over

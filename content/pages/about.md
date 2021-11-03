@@ -15,11 +15,7 @@ sections:
     subtitle: Our team
     text: |
       # We're a group of co-worker, and that's should be enough
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     styles:
       self:
         height: auto

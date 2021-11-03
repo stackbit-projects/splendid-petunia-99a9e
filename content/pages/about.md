@@ -52,7 +52,7 @@ sections:
       text:
         textAlign: center
       actions:
-        justifyContent: flex-start
+        justifyContent: center
     type: HeroSection
   - type: HeroSection
     title: About Us

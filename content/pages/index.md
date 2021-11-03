@@ -253,7 +253,8 @@ sections:
         fontStyle: normal
         textAlign: center
       text:
-        textAlign: left
+        textAlign: center
+        
         margin:
           - mb-12
       actions:

@@ -135,7 +135,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    colors: colors-c
+    colors: colors-d
   - type: CtaSection
     colors: colors-c
     title: Careers

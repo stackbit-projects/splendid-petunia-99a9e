@@ -12,58 +12,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/Team.jpeg
-    title: About us
-    subtitle: Friends. Family. Co-workers.
-    actions:
-      - type: Button
-        label: Contact us
-        url: /
-        style: secondary
-    feature:
-      type: ImageBlock
-      altText: Hero section image
-    styles:
-      self:
-        height: screen
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: flex-start
-        flexDirection: col
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mb-12
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mb-12
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: HeroSection
-  - elementId: ''
-    colors: colors-f
-    backgroundWidth: full
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     title: This is our whop we are
     subtitle: Our team
     text: |-
@@ -110,6 +58,58 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-f
+    backgroundWidth: full
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+      url: /images/Team.jpeg
+    title: About us
+    subtitle: Friends. Family. Co-workers.
+    actions:
+      - type: Button
+        label: Contact us
+        url: /
+        style: secondary
+    feature:
+      type: ImageBlock
+      altText: Hero section image
+    styles:
+      self:
+        height: screen
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: flex-start
+        flexDirection: col
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mb-12
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mb-12
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
     type: HeroSection
   - type: HeroSection
     title: About Us

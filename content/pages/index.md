@@ -254,7 +254,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-        
+      
         margin:
           - mb-12
       actions:

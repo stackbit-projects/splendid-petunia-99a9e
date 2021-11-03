@@ -68,6 +68,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/Funky.png
   - elementId: ''
     variant: variant-b
     colors: colors-a

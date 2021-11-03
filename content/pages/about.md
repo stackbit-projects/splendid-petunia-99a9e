@@ -54,11 +54,7 @@ sections:
           opacity: 100
       type: ImageBlock
       url: /images/Team.jpeg
-    actions:
-      - type: Button
-        label: Contact us
-        url: /
-        style: secondary
+    actions: []
     feature:
       type: ImageBlock
       altText: Hero section image

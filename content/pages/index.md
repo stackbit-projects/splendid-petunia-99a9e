@@ -60,6 +60,14 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - elementId: ''
     variant: variant-b
     colors: colors-a

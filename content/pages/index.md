@@ -217,13 +217,7 @@ sections:
     text: >
       ## Share WIP, comment on each other’s work, approve what’s ready to go,
       ship together
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
-        icon: arrowRight
-        showIcon: true
+    actions: []
     feature:
       type: ImageBlock
       url: /images/Center image.png
@@ -254,7 +248,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-      
         margin:
           - mb-12
       actions:

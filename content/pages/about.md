@@ -54,7 +54,6 @@ sections:
           opacity: 100
       type: ImageBlock
       url: /images/Team.jpeg
-    title: About us
     subtitle: Friends. Family. Co-workers.
     actions:
       - type: Button

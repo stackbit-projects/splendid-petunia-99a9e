@@ -140,7 +140,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: About us
+    title: Our Value
     subtitle: Meet the team
     actions: []
     people:

@@ -38,7 +38,7 @@ sections:
         fontStyle: normal
         textAlign: left
         margin:
-          - mb-6
+          - mb-4
       text:
         textAlign: left
       actions:

@@ -64,7 +64,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: This is our
+    title: This is our whop we are
     subtitle: This Is Subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.

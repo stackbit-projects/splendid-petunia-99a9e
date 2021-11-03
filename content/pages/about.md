@@ -17,11 +17,6 @@ sections:
       # We're a group of co-worker, and that's should be enough
     actions:
       - type: Button
-        label: Get Started
-        url: /
-        style: primary
-        elementId: hero-main-button
-      - type: Button
         label: Learn More
         url: /
         style: secondary

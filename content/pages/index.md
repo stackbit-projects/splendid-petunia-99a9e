@@ -73,7 +73,7 @@ sections:
     variant: variant-b
     colors: colors-a
     backgroundWidth: full
-    title: Here are som brands
+    title: Core values
     subtitle: and thier logos
     actions: []
     people:

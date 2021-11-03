@@ -92,7 +92,7 @@ sections:
         justifyContent: center
     type: HeroSection
   - type: HeroSection
-    title: Our story
+    title: The TL'DR
     subtitle: TL'DR
     text: >-
       Contrary to popular belief, Lorem Ipsum is not simply random text. It has

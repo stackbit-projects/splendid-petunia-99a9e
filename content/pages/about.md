@@ -14,7 +14,7 @@ sections:
       type: ImageBlock
     subtitle: Our team
     text: |
-      # We're a group of co-worker, and that's should be enough
+      # We're a group of co-worker, and that should be enough
     actions: []
     styles:
       self:

@@ -42,12 +42,8 @@ sections:
           opacity: 100
       type: ImageBlock
     subtitle: Work with us
-    text: >
-      # Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae
-      nisl.&#xA;Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis
-      sit amet&#xA;erat molestie, hendrerit malesuada justo ultrices. Nunc
-      volutpat at erat&#xA;vitae interdum. Ut nec massa eget lorem blandit
-      condimentum et at risus.
+    text: |
+      # Project by project, we’re reimagining the world’s best products
     actions:
       - type: Button
         label: Get Started

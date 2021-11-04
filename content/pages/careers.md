@@ -90,7 +90,7 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: The Section Title
     subtitle: The section subtitle
     text: |-

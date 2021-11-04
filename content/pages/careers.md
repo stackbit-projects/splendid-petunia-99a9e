@@ -288,8 +288,8 @@ sections:
     colors: colors-c
     backgroundWidth: full
     quote: >
-      # "We envision a world where people make products that other people won't,
-      so that when they need these products, they will have them" &#xA;
+      # "We envision a world where people make products that other people won't
+      so that when they need these products, they will have them"
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:

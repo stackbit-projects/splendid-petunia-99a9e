@@ -55,7 +55,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Open roles
-    subtitle: Not seeing what you're looking for?
+    subtitle: Contact us if you're not seeing what you're looking for
     actions:
       - type: Button
         label: View all

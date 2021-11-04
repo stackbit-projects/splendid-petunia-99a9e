@@ -139,7 +139,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: The Tl
+    title: Our Story
     subtitle: What our customers say about us
     testimonials:
       - quote: >-

@@ -71,7 +71,7 @@ sections:
       url: /images/Funky.png
   - elementId: ''
     variant: variant-b
-    colors: colors-f
+    colors: colors-e
     backgroundWidth: full
     title: Brands
     subtitle: and thier logos

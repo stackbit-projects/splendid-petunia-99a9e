@@ -12,6 +12,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/Funky-af8e45e9.png
     subtitle: Our team
     text: |
       # A group of friends that happen to work together

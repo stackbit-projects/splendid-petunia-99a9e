@@ -137,7 +137,7 @@ sections:
         justifyContent: flex-start
     colors: colors-f
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundWidth: full
     title: ''
     subtitle: ''

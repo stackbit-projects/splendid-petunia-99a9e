@@ -186,7 +186,7 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: center
+        textAlign: left
     type: TestimonialsSection
   - type: CtaSection
     colors: colors-c

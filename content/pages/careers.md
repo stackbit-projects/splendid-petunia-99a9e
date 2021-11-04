@@ -245,7 +245,7 @@ sections:
     type: CtaSection
   - elementId: ''
     colors: colors-f
-    backgroundWidth: inset
+    backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum

@@ -28,7 +28,7 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: center
+        textAlign: left
       text:
         textAlign: center
     type: TextSection

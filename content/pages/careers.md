@@ -291,7 +291,7 @@ sections:
       # "We envision a world where people make products that other people won't
       so that when they need these products, they will have them"
     name: Johnna Doe
-    title: Product Marketing Manager at Acme
+    title: Product Marketing Manager
     backgroundImage:
       altText: Product Marketing Manager Quote
     styles:

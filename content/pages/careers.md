@@ -18,7 +18,7 @@ sections:
           - mb-0
         padding:
           - pt-12
-          - pb-12
+          - pb-36
         alignItems: center
         justifyContent: center
       title:

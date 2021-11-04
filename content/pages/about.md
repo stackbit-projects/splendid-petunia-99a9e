@@ -143,7 +143,7 @@ sections:
     subtitle: ''
     testimonials:
       - quote: >
-          > It's been incredible to see us grow from just a few people into the
+          # It's been incredible to see us grow from just a few people into the
           organization that we are today
         name: Isabelle Parks
         title: Head of Product

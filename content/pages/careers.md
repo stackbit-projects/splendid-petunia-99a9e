@@ -119,7 +119,7 @@ sections:
           - mb-24
         padding:
           - pt-0
-          - pb-12
+          - pb-0
         alignItems: center
         justifyContent: center
         flexDirection: col

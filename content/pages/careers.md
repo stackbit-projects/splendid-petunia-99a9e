@@ -36,7 +36,7 @@ sections:
     colors: colors-c
     backgroundWidth: full
     backgroundImage:
-      url: /images/post-1.jpeg
+      url: /images/Team-999dd80f.jpeg
       altText: Product Marketing Manager Quote
     styles:
       self:

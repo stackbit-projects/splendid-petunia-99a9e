@@ -78,6 +78,7 @@ sections:
         textAlign: Left
       text:
         textAlign: left
+        
     type: TextSection
   - elementId: ''
     colors: colors-f

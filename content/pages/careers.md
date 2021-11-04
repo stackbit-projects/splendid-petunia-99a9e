@@ -95,44 +95,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-  - elementId: ''
-    variant: variant-c
-    colors: colors-a
-    backgroundWidth: inset
-    title: Open roles
-    subtitle: Contact us if you're not seeing what you're looking for
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedPostsSection
 layout: PageLayout
 _slug: curious-potato-373
 ---

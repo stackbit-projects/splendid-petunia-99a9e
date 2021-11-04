@@ -107,7 +107,6 @@ sections:
           over 2000 years old. Richard McClintock, a Latin professor at
           Hampden-Sydney College in Virginia, looked up one of the more obscure
           Latin words.
-        name: Isabelle Parks
         title: Head chef at The Cook
         image:
           type: ImageBlock

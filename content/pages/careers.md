@@ -316,7 +316,7 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
-    contentAlignHoriz: right
+    contentAlignHoriz: left
     contentAlignVert: top
     type: QuoteSection
 layout: PageLayout

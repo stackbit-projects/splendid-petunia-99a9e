@@ -53,7 +53,7 @@ sections:
   - elementId: ''
     colors: colors-h
     backgroundWidth: full
-    title: Personla
+    title: Personal
     subtitle: FREE
     text: |+
       The best way to get a taste of our product

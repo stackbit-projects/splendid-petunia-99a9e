@@ -175,7 +175,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundWidth: full
     quote: >
       ### "We envision a world where people make products that other people

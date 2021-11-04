@@ -127,7 +127,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
-        name: Sarah King
+        name: Isabella Parks
         title: Founder & CEO
     styles:
       self:

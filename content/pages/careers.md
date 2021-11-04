@@ -18,7 +18,7 @@ sections:
           - mb-0
         padding:
           - pt-36
-          - pb-36
+          - pb-24
         alignItems: left
         justifyContent: left
       title:

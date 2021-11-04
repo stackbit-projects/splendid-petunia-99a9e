@@ -179,6 +179,7 @@ sections:
     contentAlignHoriz: right
     contentAlignVert: top
     type: QuoteSection
+    title: 'Sandy '
   - type: CtaSection
     colors: colors-c
     title: Careers

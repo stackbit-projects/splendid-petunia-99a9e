@@ -66,7 +66,7 @@ sections:
       Theis is the basic description for this role
     actions:
       - type: Button
-        label: Try it now
+        label: Apply
         url: /about
         style: primary
     styles:

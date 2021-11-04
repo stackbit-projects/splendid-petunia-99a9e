@@ -333,7 +333,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
-      submitLabel: Stayintouch
+      submitLabel: stay in touch
     feature:
       type: ImageBlock
       url: /images/contact.png

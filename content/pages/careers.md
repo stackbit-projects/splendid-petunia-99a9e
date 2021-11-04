@@ -53,7 +53,7 @@ sections:
   - elementId: ''
     colors: colors-h
     backgroundWidth: full
-    title: The Section Title
+    title: Personla
     subtitle: The section subtitle
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

@@ -20,7 +20,7 @@ sections:
           - pt-36
           - pb-36
         alignItems: left
-        justifyContent: center
+        justifyContent: left
       title:
         fontWeight: 700
         fontStyle: normal

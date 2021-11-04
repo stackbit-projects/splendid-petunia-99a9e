@@ -24,7 +24,6 @@ sections:
     feature:
       type: ImageBlock
       altText: Hero section image
-      url: /images/Lightning gradient.svg
     styles:
       self:
         height: auto

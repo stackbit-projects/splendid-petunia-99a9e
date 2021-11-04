@@ -19,18 +19,18 @@ sections:
         padding:
           - pt-36
           - pb-24
-        alignItems: left
-        justifyContent: left
+        alignItems: center
+        justifyContent: center
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: left
+        textAlign: center
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
     type: TextSection
   - elementId: ''
     colors: colors-c

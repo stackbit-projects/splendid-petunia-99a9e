@@ -80,7 +80,7 @@ sections:
         textAlign: left
     type: TextSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundWidth: inset
     backgroundImage:
       altText: lorem-ipsum
@@ -283,7 +283,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: CtaSection              
+    type: CtaSection
 layout: PageLayout
 _slug: curious-potato-373
 ---

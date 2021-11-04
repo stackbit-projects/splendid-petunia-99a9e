@@ -4,7 +4,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    subtitle: The section subtitle
+    subtitle: Work with us
     text: >
       ## Project by project, we’re reimagining the world’s best products. Join
       us, join the people, join the movement, and let's build something great

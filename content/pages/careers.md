@@ -63,7 +63,7 @@ sections:
       type: ImageBlock
     title: Office manager
     text: |
-      ##### New york
+      ##### New york, NY
     actions:
       - type: Button
         label: Apply for this job

@@ -91,51 +91,6 @@ sections:
       actions:
         justifyContent: center
     type: HeroSection
-  - type: HeroSection
-    title: The TL'DR
-    subtitle: Our Story
-    text: >
-      Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-      roots in a piece of classical Latin literature from 45 BC, making it over
-      2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-      College in Virginia, looked up one of the more obscure Latin words. Lorem
-      Ipsum is not simply random text. It has roots in a piece of classical
-      Latin literature from 45 BC, making it over 2000 years old. Richard
-      McClintock, a Latin professor at Hampden-Sydney College in Virginia,
-      looked up one of the more obscure Latin words.
-    feature:
-      type: ImageBlock
-      altText: About us
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mb-6
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mb-4
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    colors: colors-f
   - elementId: ''
     colors: colors-a
     backgroundWidth: full

@@ -4,51 +4,6 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundWidth: full
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-      url: /images/Funky-af8e45e9.png
-    subtitle: Our team
-    text: |
-      # A group of friends that happen to work together
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-36
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mb-4
-          - mt-12
-      text:
-        textAlign: center
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-- elementId: ''
-    colors: colors-f
-    backgroundWidth: full
     subtitle: Work with us
     text: >
       ## Project by project, we’re reimagining the world’s best products. Join

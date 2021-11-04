@@ -2,42 +2,6 @@
 title: This is a new page
 sections:
   - elementId: ''
-    colors: colors-c
-    backgroundWidth: full
-    quote: >
-      # "We envision a world where people make products that other people won't
-      so that when they need these products, they will have them"
-    name: Johnna Doe
-    title: Product Marketing Manager
-    backgroundImage:
-      altText: Product Marketing Manager Quote
-      url: /images/Team-999dd80f.jpeg
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-36
-        alignItems: flex-end
-        justifyContent: flex-end
-      quote:
-        textAlign: left
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    contentAlignHoriz: left
-    contentAlignVert: top
-    type: QuoteSection
-  - elementId: ''
     colors: colors-f
     backgroundWidth: full
     backgroundImage:
@@ -87,6 +51,42 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+  - elementId: ''
+    colors: colors-c
+    backgroundWidth: full
+    quote: >
+      # "We envision a world where people make products that other people won't
+      so that when they need these products, they will have them"
+    name: Johnna Doe
+    title: Product Marketing Manager
+    backgroundImage:
+      altText: Product Marketing Manager Quote
+      url: /images/Team-999dd80f.jpeg
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-36
+          - pb-36
+        alignItems: flex-end
+        justifyContent: flex-end
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    contentAlignHoriz: left
+    contentAlignVert: top
+    type: QuoteSection
   - elementId: ''
     colors: colors-f
     backgroundWidth: full

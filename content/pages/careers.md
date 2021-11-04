@@ -53,7 +53,7 @@ sections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Open roles
     subtitle: Contact us if you're not seeing what you're looking for
     actions:

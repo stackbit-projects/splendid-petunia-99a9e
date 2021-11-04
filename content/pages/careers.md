@@ -51,7 +51,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     subtitle: Work with us
     text: |

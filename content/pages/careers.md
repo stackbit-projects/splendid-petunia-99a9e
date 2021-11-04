@@ -307,7 +307,7 @@ sections:
         alignItems: flex-end
         justifyContent: flex-end
       quote:
-        textAlign: right
+        textAlign: left
       name:
         fontWeight: 400
         fontStyle: normal

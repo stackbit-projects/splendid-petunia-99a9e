@@ -78,7 +78,34 @@ sections:
         textAlign: Left
       text:
         textAlign: left
-        
+    - elementId: ''
+    colors: colors-a
+    backgroundWidth: full
+    subtitle: Work with us
+    text: |
+      # Project by project, we’re reimagining the world’s best products
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: left
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: Left
+      text:
+        textAlign: left      
     type: TextSection
   - elementId: ''
     colors: colors-f

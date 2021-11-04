@@ -14,8 +14,10 @@ sections:
       type: ImageBlock
       url: /images/Funky-af8e45e9.png
     subtitle: Our team
-    text: |
-      # A group of friends that happen to work together
+    text: >
+      # Project by project, we’re reimagining the world’s best products. Join
+      us, join the people, join the movement, and let's build something great
+      together.
     actions: []
     styles:
       self:

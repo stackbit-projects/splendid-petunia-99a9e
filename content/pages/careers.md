@@ -288,8 +288,8 @@ sections:
     colors: colors-c
     backgroundWidth: full
     quote: >
-      # “It’s great to see someone taking action while still maintaining
-      a&#xA;sustainable fish supply to home cooks.”
+      # "We envision a world where people make products that other people want,
+      so that when they need these products, they will have them handy " &#xA;
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:

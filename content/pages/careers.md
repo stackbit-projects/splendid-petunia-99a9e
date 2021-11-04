@@ -161,47 +161,6 @@ sections:
       text:
         textAlign: center
     type: TextSection
-  - elementId: ''
-    colors: colors-h
-    backgroundWidth: full
-    title: Personal
-    subtitle: FREE
-    text: |+
-      The best way to get a taste of our product
-
-      *   Secured storage
-
-      *   Limited API
-
-      *   Access to documentation
-
-      *   One-time publish
-
-      *   Lightning speed 
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      text:
-        textAlign: center
-    type: TextSection
 layout: PageLayout
 _slug: curious-potato-373
 ---

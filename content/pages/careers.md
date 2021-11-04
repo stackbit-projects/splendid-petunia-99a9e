@@ -286,7 +286,7 @@ sections:
           - mb-0
         padding:
           - pt-8
-          - pb-8
+          - pb-36
         alignItems: center
         justifyContent: center
         flexDirection: row

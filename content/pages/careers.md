@@ -16,11 +16,7 @@ sections:
     subtitle: Work with us
     text: |
       # Project by project, we’re reimagining the world’s best products
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     feature:
       type: ImageBlock
       altText: Hero section image

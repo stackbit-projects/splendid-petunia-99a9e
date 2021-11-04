@@ -229,7 +229,7 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-0
+          - pt-8
           - pb-0
         alignItems: center
         justifyContent: center

@@ -127,7 +127,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
-        name: 'Sandy '
+        name: Sandy Lo
     styles:
       self:
         height: auto

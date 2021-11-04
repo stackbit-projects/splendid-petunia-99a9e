@@ -167,6 +167,39 @@ sections:
     contentAlignHoriz: right
     contentAlignVert: top
     type: QuoteSection
+  - type: CtaSection
+    colors: colors-c
+    title: Careers
+    text: >
+      ### There are many variations of passages of Lorem Ipsum available, but
+      the majority have suffered alteration in some form, by injected humour, or
+      randomised words which don't look even slightly believable.
+    actions:
+      - type: Button
+        label: See jobs
+        url: /
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-f
     backgroundWidth: full
@@ -219,39 +252,6 @@ sections:
         fontStyle: normal
         textAlign: left
     type: TestimonialsSection
-  - type: CtaSection
-    colors: colors-c
-    title: Careers
-    text: >
-      ### There are many variations of passages of Lorem Ipsum available, but
-      the majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable.
-    actions:
-      - type: Button
-        label: See jobs
-        url: /
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 layout: PageLayout
 _slug: perpetual-aspen-28
 ---

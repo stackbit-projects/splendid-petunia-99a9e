@@ -315,7 +315,7 @@ sections:
       title:
         fontWeight: 400
         fontStyle: normal
-        textAlign: right
+        textAlign: left
     contentAlignHoriz: right
     contentAlignVert: top
     type: QuoteSection

@@ -11,6 +11,7 @@ sections:
     title: Product Marketing Manager
     backgroundImage:
       altText: Product Marketing Manager Quote
+      url: /images/Team-999dd80f.jpeg
     styles:
       self:
         height: auto

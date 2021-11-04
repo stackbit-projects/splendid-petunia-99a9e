@@ -118,7 +118,7 @@ sections:
           - mt-0
           - mb-24
         padding:
-          - pt-0
+          - pt-2
           - pb-0
         alignItems: center
         justifyContent: center

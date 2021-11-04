@@ -151,7 +151,7 @@ sections:
         textAlign: center
     type: TestimonialsSection
   - type: CtaSection
-    colors: colors-c
+    colors: colors-g
     title: Want to join us?
     text: >
       ### There are many variations of passages of Lorem Ipsum available, but

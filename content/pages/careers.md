@@ -242,7 +242,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: CtaSection            
+    type: CtaSection
+              
 layout: PageLayout
 _slug: curious-potato-373
 ---

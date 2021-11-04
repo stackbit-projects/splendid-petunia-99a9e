@@ -139,7 +139,6 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    name: Johnna Doe
     backgroundImage:
       url: /images/post-1.jpeg
       altText: Product Marketing Manager Quote

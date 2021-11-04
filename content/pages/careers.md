@@ -41,7 +41,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    subtitle: This Is Subtitle
+    subtitle: Work with us
     text: >
       # Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae
       nisl.&#xA;Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis

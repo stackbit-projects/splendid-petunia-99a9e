@@ -74,7 +74,7 @@ sections:
         height: auto
         width: full
         margin:
-          - mt-0
+          - mt-24
           - mb-2
         padding:
           - pt-2

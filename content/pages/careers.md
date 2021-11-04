@@ -36,7 +36,7 @@ sections:
     colors: colors-c
     backgroundWidth: full
     backgroundImage:
-      url: /images/Team-999dd80f.jpeg
+      url: /images/Rectangle 2419.png
       altText: Product Marketing Manager Quote
     styles:
       self:

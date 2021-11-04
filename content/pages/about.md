@@ -146,7 +146,7 @@ sections:
           # It's been incredible to see us grow from just a few people into the
           organization that we are today
         name: Isabelle Parks
-        title: Head chef at The Cook
+        title: Head of Product
         image:
           type: ImageBlock
           url: /images/isabelle-parks.jpg

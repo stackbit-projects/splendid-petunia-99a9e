@@ -47,7 +47,7 @@ sections:
         textAlign: left
         margin:
           - mt-12
-          - mb-8
+          - mb-2
       text:
         textAlign: left
         margin:

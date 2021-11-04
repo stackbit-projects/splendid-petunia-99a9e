@@ -73,6 +73,15 @@ sections:
         icon: arrowRight
         showIcon: true
         iconPosition: right
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: link
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto

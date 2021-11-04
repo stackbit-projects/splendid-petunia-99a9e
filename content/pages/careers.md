@@ -300,7 +300,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: contact-form
-    colors: colors-c
+    colors: colors-f
     backgroundWidth: full
     title: Didn't find the perfect role? Tell us about you
     text: |

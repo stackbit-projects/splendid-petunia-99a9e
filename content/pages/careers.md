@@ -2,7 +2,7 @@
 title: This is a new page
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundWidth: full
     subtitle: Work with us
     text: >

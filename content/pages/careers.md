@@ -81,7 +81,7 @@ sections:
     type: TextSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: inset
+    backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum

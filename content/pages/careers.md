@@ -4,7 +4,6 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: The Section Title
     subtitle: The section subtitle
     text: >
       ## Project by project, we’re reimagining the world’s best products. Join

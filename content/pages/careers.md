@@ -62,9 +62,8 @@ sections:
           opacity: 100
       type: ImageBlock
     title: UI/UX designer
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Theis is the basic description for this role
     actions:
       - type: Button
         label: Try it now

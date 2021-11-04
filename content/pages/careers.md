@@ -66,7 +66,7 @@ sections:
       New york
     actions:
       - type: Button
-        label: Try it now
+        label: Apply for this job
         url: /about
         style: primary
     styles:

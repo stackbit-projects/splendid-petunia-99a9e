@@ -128,7 +128,7 @@ sections:
             fontStyle: normal
             textAlign: center
         name: Sarah King
-        title: CEO
+        title: Founder & CEO
     styles:
       self:
         height: auto

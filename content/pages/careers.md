@@ -91,6 +91,7 @@ sections:
       text:
         textAlign: center
     type: TextSection
+    
 layout: PageLayout
 _slug: curious-potato-373
 ---

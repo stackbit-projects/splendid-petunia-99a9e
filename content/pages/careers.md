@@ -12,6 +12,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/Team-999dd80f.jpeg
     subtitle: Work with us
     text: |
       # Project by project, we’re reimagining the world’s best products

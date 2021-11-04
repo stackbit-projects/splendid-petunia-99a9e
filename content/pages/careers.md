@@ -303,7 +303,8 @@ sections:
     colors: colors-c
     backgroundWidth: full
     title: Didn't find the perfect role? Tell us about you
-    text: We look forward to hearing from you.
+    text: |
+      We might have something for you in the future
     form:
       type: FormBlock
       elementId: contact-form

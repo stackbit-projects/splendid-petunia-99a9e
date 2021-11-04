@@ -148,6 +148,37 @@ sections:
         fontStyle: normal
         textAlign: center
     type: TestimonialsSection
+  - elementId: ''
+    colors: colors-c
+    backgroundWidth: full
+    backgroundImage:
+      url: /images/Rectangle 2419.png
+      altText: Product Marketing Manager Quote
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-36
+          - pb-36
+        alignItems: flex-end
+        justifyContent: center
+      quote:
+        textAlign: right
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: right
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: right
+    contentAlignHoriz: right
+    contentAlignVert: top
+    type: QuoteSection
   - type: CtaSection
     colors: colors-c
     title: Careers
@@ -181,37 +212,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-c
-    backgroundWidth: full
-    backgroundImage:
-      url: /images/Rectangle 2419.png
-      altText: Product Marketing Manager Quote
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-36
-        alignItems: flex-end
-        justifyContent: center
-      quote:
-        textAlign: right
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: right
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: right
-    contentAlignHoriz: right
-    contentAlignVert: top
-    type: QuoteSection
   - elementId: ''
     colors: colors-f
     backgroundWidth: full

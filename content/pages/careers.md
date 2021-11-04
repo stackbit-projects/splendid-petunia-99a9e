@@ -244,7 +244,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundWidth: inset
     backgroundImage:
       altText: lorem-ipsum

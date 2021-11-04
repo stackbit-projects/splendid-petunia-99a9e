@@ -69,7 +69,7 @@ sections:
       - type: Button
         label: Apply Now
         url: /about
-        style: primary
+        style: link
     styles:
       self:
         height: auto

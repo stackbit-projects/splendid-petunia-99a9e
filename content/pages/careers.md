@@ -62,9 +62,8 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Position name
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      This is a short description of this role
     actions:
       - type: Button
         label: Try it now

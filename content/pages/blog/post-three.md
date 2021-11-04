@@ -7,6 +7,7 @@ excerpt: Learn how top tech companies have learned working remote using our prod
 featuredImage:
   type: ImageBlock
   altText: Post Image
+  url: /images/Lightning gradient.png
 bottomSections:
   - type: CtaSection
     colors: colors-e

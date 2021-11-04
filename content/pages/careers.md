@@ -63,7 +63,7 @@ sections:
       type: ImageBlock
     title: Office manager
     text: |
-      This is a short description of this role
+      New york
     actions:
       - type: Button
         label: Try it now

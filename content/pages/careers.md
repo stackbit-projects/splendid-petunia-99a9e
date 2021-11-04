@@ -61,7 +61,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: Position name
+    title: Office manager
     text: |
       This is a short description of this role
     actions:

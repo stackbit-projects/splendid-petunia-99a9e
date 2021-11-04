@@ -73,15 +73,6 @@ sections:
         icon: arrowRight
         showIcon: true
         iconPosition: right
-      - label: Head of something here at whatever
-        altText: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: link
-        elementId: ''
-        type: Link
     styles:
       self:
         height: auto

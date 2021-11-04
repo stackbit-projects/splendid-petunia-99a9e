@@ -67,7 +67,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: This is a jo
+        label: 'Head of '
         url: /about
         style: link
         icon: arrowRight

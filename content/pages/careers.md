@@ -56,7 +56,7 @@ sections:
     title: The Section Title
     subtitle: The section subtitle
     text: |
-      ## Project by project, we’re reimagining the world’s best products
+      # Project by project, we’re reimagining the world’s best products
     styles:
       self:
         height: auto

@@ -32,7 +32,7 @@ sections:
       text:
         textAlign: center
     type: TextSection
-    - elementId: ''
+  - elementId: ''
     colors: colors-f
     backgroundWidth: full
     backgroundImage:

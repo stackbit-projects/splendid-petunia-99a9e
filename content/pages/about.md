@@ -136,6 +136,58 @@ sections:
       actions:
         justifyContent: flex-start
     colors: colors-f
+  - elementId: ''
+    colors: colors-c
+    backgroundWidth: full
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >-
+          It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.
+        name: Isabelle Parks
+        title: Head chef at The Cook
+        image:
+          type: ImageBlock
+          url: /images/isabelle-parks.jpg
+          altText: Photo of Isabelle Parks
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row-reverse
+          quote:
+            textAlign: center
+          name:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: center
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: center
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+    type: TestimonialsSection
   - type: CtaSection
     colors: colors-c
     title: Careers

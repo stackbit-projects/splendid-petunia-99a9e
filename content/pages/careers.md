@@ -67,7 +67,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Apply Now
+        label: This is a jo
         url: /about
         style: link
         icon: arrowRight

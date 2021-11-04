@@ -80,7 +80,7 @@ sections:
         textAlign: left
     type: TextSection
   - elementId: ''
-    colors: colors-i
+    colors: colors-f
     backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum

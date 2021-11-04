@@ -61,7 +61,6 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero.png
       altText: Hero section image
     styles:
       self:

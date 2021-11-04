@@ -336,7 +336,7 @@ sections:
       submitLabel: stay in touch
     feature:
       type: ImageBlock
-      url: /images/Rectangle 2419.png
+      url: /images/Team-999dd80f.jpeg
       altText: Contact form image
     styles:
       self:

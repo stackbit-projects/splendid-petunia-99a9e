@@ -70,6 +70,7 @@ sections:
         label: Apply Now
         url: /about
         style: link
+        icon: arrowRight
     styles:
       self:
         height: auto

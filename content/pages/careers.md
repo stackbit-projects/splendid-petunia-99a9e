@@ -182,9 +182,6 @@ sections:
       so that when they need these products, they will have them"
     name: Johnna Doe
     title: Product Marketing Manager
-    backgroundImage:
-      altText: Product Marketing Manager Quote
-      url: /images/Team-999dd80f.jpeg
     styles:
       self:
         height: auto

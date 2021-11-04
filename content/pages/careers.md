@@ -40,7 +40,7 @@ sections:
       altText: Product Marketing Manager Quote
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0

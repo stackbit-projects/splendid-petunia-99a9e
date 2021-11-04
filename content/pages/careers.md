@@ -67,7 +67,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Apply Now
         url: /about
         style: primary
     styles:

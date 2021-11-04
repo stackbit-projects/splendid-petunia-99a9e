@@ -73,7 +73,7 @@ sections:
         icon: arrowRight
         showIcon: true
         iconPosition: right
-      - label: Learn more
+      - label: Head of something here at whatever
         altText: Learn more
         url: /
         showIcon: true

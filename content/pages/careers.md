@@ -4,37 +4,6 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundWidth: full
-    subtitle: Work with us
-    text: >
-      ## Project by project, we’re reimagining the world’s best products. Join
-      us, join the people, join the movement, and let's build something great
-      together.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-24
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      text:
-        textAlign: center
-    type: TextSection
-  - elementId: ''
-    colors: colors-f
-    backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
@@ -76,7 +45,38 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
-    type: HeroSection  
+    type: HeroSection
+  - elementId: ''
+    colors: colors-f
+    backgroundWidth: full
+    subtitle: Work with us
+    text: >
+      ## Project by project, we’re reimagining the world’s best products. Join
+      us, join the people, join the movement, and let's build something great
+      together.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-36
+          - pb-24
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      text:
+        textAlign: center
+    type: TextSection
   - elementId: ''
     colors: colors-c
     backgroundWidth: full

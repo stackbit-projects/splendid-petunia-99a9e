@@ -44,54 +44,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    text: |
-      #
-    actions: []
-    feature:
-      type: ImageBlock
-      altText: Hero section image
-    styles:
-      self:
-        height: screen
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: flex-start
-        flexDirection: col
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-        margin:
-          - mt-12
-          - mb-2
-      text:
-        textAlign: left
-        margin:
-          - mb-12
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-f
-    backgroundWidth: full
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     title: Office manager
     text: |
       ##### New york, NY

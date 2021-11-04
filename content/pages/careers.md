@@ -55,7 +55,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Open roles
-    subtitle: Featured blog posts section example
+    subtitle: Not seeing what you're looking for?
     actions:
       - type: Button
         label: View all

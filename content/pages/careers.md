@@ -116,7 +116,7 @@ sections:
         width: full
         margin:
           - mt-0
-          - mb-24
+          - mb-4
         padding:
           - pt-2
           - pb-0

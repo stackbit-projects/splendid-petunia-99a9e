@@ -154,7 +154,7 @@ sections:
         styles:
           self:
             margin:
-              - mt-0
+              - mt-24
               - mb-0
             flexDirection: row-reverse
           quote:

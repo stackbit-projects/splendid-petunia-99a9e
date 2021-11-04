@@ -54,7 +54,7 @@ sections:
     colors: colors-h
     backgroundWidth: full
     title: Personla
-    subtitle: The section subtitle
+    subtitle: FREE
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo

@@ -79,7 +79,6 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    
   - elementId: ''
     colors: colors-f
     backgroundWidth: inset

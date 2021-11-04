@@ -152,7 +152,7 @@ sections:
     type: TestimonialsSection
   - type: CtaSection
     colors: colors-c
-    title: Careers
+    title: Want to join us?
     text: >
       ### There are many variations of passages of Lorem Ipsum available, but
       the majority have suffered alteration in some form, by injected humour, or

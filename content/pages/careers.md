@@ -71,6 +71,8 @@ sections:
         url: /about
         style: link
         icon: arrowRight
+        showIcon: true
+        iconPosition: right
     styles:
       self:
         height: auto

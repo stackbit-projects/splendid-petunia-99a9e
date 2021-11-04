@@ -243,7 +243,47 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-              
+  - elementId: ''
+    colors: colors-f
+    backgroundWidth: inset
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: Office manager
+    text: |
+      ##### New york, NY
+    actions:
+      - type: Button
+        label: Apply for this job
+        url: /about
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-4
+          - mb-4
+        padding:
+          - pt-0
+          - pb-0
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection              
 layout: PageLayout
 _slug: curious-potato-373
 ---

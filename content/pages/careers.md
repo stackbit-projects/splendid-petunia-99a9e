@@ -50,47 +50,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-c
-    backgroundWidth: inset
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    title: Product manager
-    text: |
-      Theis is the basic description for this role
-    actions:
-      - type: Button
-        label: Apply
-        url: /about
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-2
-        padding:
-          - pt-2
-          - pb-0
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
 layout: PageLayout
 _slug: curious-potato-373
 ---

@@ -140,7 +140,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Our Story
-    subtitle: What our customers say about us
+    subtitle: Just the TL'DR
     testimonials:
       - quote: >-
           It’s great to see someone taking action while still maintaining a

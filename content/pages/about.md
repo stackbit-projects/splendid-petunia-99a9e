@@ -197,7 +197,7 @@ sections:
       randomised words which don't look even slightly believable.
     actions:
       - type: Button
-        label: Learn more
+        label: See jobs
         url: /
         style: primary
     styles:

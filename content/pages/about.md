@@ -127,7 +127,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
-        name: 'Sarah '
+        name: Sarah Pa
     styles:
       self:
         height: auto

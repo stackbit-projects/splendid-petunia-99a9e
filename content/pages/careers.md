@@ -53,7 +53,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    subtitle: The section subtitle
+    subtitle: Work with us
     text: |
       # Project by project, we’re reimagining the world’s best products
     styles:

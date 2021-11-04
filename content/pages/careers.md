@@ -78,7 +78,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: link
         elementId: ''
         type: Link

@@ -6,13 +6,14 @@ sections:
     backgroundWidth: full
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      ## Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+      accusantium&#xA;doloremque laudantium, totam rem aperiam. Eaque ipsa quae
+      ab illo&#xA;inventore veritatis et quasi architecto beatae vitae dicta
+      sunt explicabo.&#xA;Sed ut perspiciatis undeomnis iste natus error sit
+      voluptatem accusantium&#xA;doloremque laudantium, totam rem aperiam. Eaque
+      ipsa quae ab illo&#xA;inventore veritatis et quasi architecto beatae vitae
+      dicta sunt explicabo.
     styles:
       self:
         height: auto

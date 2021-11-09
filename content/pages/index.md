@@ -149,7 +149,7 @@ sections:
         justifyContent: flex-end
         flexDirection: row
         borderColor: border-neutral
-        borderRadius: xx-large
+        borderRadius: none
         borderWidth: 0
         borderStyle: solid
       title:

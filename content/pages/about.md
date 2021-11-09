@@ -29,7 +29,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderWidth: 3
+        borderWidth: 2
       title:
         fontWeight: 700
         fontStyle: normal

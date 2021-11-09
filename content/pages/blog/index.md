@@ -3,7 +3,7 @@ title: Blog
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
-    variant: variant-a
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: See how our customers use Chatto.io

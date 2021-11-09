@@ -6,12 +6,11 @@ sections:
     elementId: homepage-hero-1
     colors: colors-f
     backgroundWidth: full
-    title: This Is A Big Hero Headline
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    title: 'Work communication, the remote way'
+    text: >
+      One platform, one comunity, getting to the bottom line of everything
+      emloyment.  Figure out your benefits, practice for interviews, get
+      mentored, help peers, get helped in return.
     actions:
       - type: Button
         label: Get Started
@@ -20,7 +19,7 @@ sections:
         elementId: hero-main-button
     feature:
       type: ImageBlock
-      url: /images/Hero image-9d78dc86.png
+      url: /images/header Image.png
       altText: Image alt text
       caption: Image caption
     styles:
@@ -61,11 +60,20 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+      url: /images/Funky.png
   - elementId: ''
-    variant: variant-a
-    colors: colors-a
+    variant: variant-b
+    colors: colors-e
     backgroundWidth: full
-    title: Here are som brands
+    title: Brands
     subtitle: and thier logos
     actions: []
     people:
@@ -78,7 +86,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-32
+          - mt-0
           - mb-0
         padding:
           - pt-12
@@ -97,8 +105,8 @@ sections:
         justifyContent: center
     type: FeaturedPeopleSection
   - elementId: ''
-    colors: colors-a
-    backgroundWidth: inset
+    colors: colors-f
+    backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
@@ -130,19 +138,19 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         margin:
-          - mt-32
+          - mt-0
           - mb-0
         padding:
           - pt-12
           - pb-12
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row
         borderColor: border-neutral
-        borderRadius: xx-large
-        borderWidth: 3
+        borderRadius: none
+        borderWidth: 0
         borderStyle: solid
       title:
         fontWeight: 700
@@ -163,7 +171,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    variant: variant-a
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: Remote doesn’t mean alone
@@ -218,13 +226,7 @@ sections:
     text: >
       ## Share WIP, comment on each other’s work, approve what’s ready to go,
       ship together
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
-        icon: arrowRight
-        showIcon: true
+    actions: []
     feature:
       type: ImageBlock
       url: /images/Center image.png
@@ -234,8 +236,8 @@ sections:
         height: auto
         width: narrow
         margin:
-          - mt-0
-          - mb-0
+          - mt-36
+          - mb-36
         padding:
           - pt-12
           - pb-12
@@ -245,16 +247,16 @@ sections:
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: left
+        textAlign: center
         margin:
           - mt-12
           - mb-12
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
         margin:
           - mb-12
       actions:
@@ -305,13 +307,13 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
-          - mb-0
+          - mt-36
+          - mb-36
         padding:
           - pt-12
           - pb-12
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-start
         flexDirection: row
       title:
         fontWeight: 700

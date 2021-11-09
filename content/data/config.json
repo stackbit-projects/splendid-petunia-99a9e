@@ -34,7 +34,7 @@
             {
                 "label": "Careers",
                 "altText": "Careers",
-                "url": "/",
+                "url": "/careers",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

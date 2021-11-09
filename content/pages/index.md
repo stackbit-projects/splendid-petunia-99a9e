@@ -70,7 +70,7 @@ sections:
       type: ImageBlock
       url: /images/Funky.png
   - elementId: ''
-    variant: variant-b
+    variant: variant-a
     colors: colors-e
     backgroundWidth: full
     title: Brands

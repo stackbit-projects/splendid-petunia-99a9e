@@ -146,7 +146,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row
         borderColor: border-neutral
         borderRadius: none

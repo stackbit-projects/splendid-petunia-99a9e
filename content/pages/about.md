@@ -39,7 +39,7 @@ sections:
         textAlign: center
         margin:
           - mb-4
-          - mt-12
+          - mt-8
       text:
         textAlign: center
       actions:

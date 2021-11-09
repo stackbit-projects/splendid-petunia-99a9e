@@ -106,7 +106,7 @@ sections:
     type: FeaturedPeopleSection
   - elementId: ''
     colors: colors-f
-    backgroundWidth: full
+    backgroundWidth: inset
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum

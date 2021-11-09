@@ -23,7 +23,7 @@
             {
                 "label": "About",
                 "altText": "About",
-                "url": "/",
+                "url": "/about",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
